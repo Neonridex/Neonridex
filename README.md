@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Visitors](https://komarev.com/ghpvc/?username=Neonridex&color=blue)](https://github.com/Neonridex)
-[![Mastodon](https://img.shields.io/badge/karlx-grey?logo=mastodon)](https://ohai.social/@karlx)
-[![Sharkey](https://img.shields.io/badge/karl-grey?logo=misskey)](https://shonk.social/@karl)
+<a rel="me" href="https://ohai.social/@karlx">![Mastodon](https://img.shields.io/badge/karlx-grey?logo=mastodon)</a>
+<a rel="me" href="https://shonk.social/@karl">![Sharkey](https://img.shields.io/badge/karl-grey?logo=misskey)</a>
 
 
 

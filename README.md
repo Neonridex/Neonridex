@@ -1,4 +1,12 @@
 ### Hi there 👋
+[![Visitors](https://komarev.com/ghpvc/?username=Neonridex&color=blue)](https://github.com/Neonridex)
+[![Mastodon](https://img.shields.io/badge/karlx-grey?logo=mastodon)](https://ohai.social/@karlx)
+[![Sharkey](https://img.shields.io/badge/karl-grey?logo=misskey)](https://shonk.social/@karl)
+
+
+
+
+![](https://hit.yhype.me/github/profile?user_id=94111698)
 
 <!--
 **Neonridex/Neonridex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
